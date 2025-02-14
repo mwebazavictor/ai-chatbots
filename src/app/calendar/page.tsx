@@ -1,4 +1,4 @@
-import Calendar from "@/components/Calender";
+import Calendar from "@/components/Agents";
 import { Metadata } from "next";
 import DefaultLayout from "@/components/Layouts/DefaultLayout";
 

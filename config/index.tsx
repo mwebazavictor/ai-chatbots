@@ -1,0 +1,1 @@
+export const server = "https://multi-agents-production.up.railway.app/api/v1";
